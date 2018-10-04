@@ -2,7 +2,10 @@
     "p.my-class#my-id": "hello",
     "p.my-class1.my-class2": [
         {
-            "div.my-clas2s#my-id3": "hello2"
+            "div.my-clas2s#my-id3": "hello2",
+            "div.my-clas5": "hello2",
+            "div#my-id8": "hello2",
+            "div": "hello2"
         }
     ]
 }
